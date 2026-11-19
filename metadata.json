@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Cashless Transit in Dhaka",
+  "description": "Feasibility, First-to-Last-Mile Integration, and Adoption Dynamics Across Formal and Informal Transit Modes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
