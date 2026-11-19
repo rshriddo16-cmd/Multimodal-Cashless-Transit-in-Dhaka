@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Multimodal-Cashless-Transit-in-Dhaka/',
     plugins: [
       react(),
       tailwindcss(),
