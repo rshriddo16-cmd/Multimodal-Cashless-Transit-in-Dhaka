@@ -24,7 +24,7 @@ import {
 } from './utils/surveyAnalytics';
 
 const ATTACHED_CSV_URL =
-  '/assets/aistudio/Commuter_Survey_-_Multimodal_Cashless_Transit_in_Dhaka_baab162c.csv';
+  `${import.meta.env.BASE_URL}assets/aistudio/Commuter_Survey_-_Multimodal_Cashless_Transit_in_Dhaka_baab162c.csv`;
 
 const INITIAL_FILTERS: SurveyFilters = {
   search: '',
